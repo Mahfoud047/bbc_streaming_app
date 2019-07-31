@@ -1,0 +1,254 @@
+﻿{
+   "chains": [
+      {
+         "name": "BBC Radio 1",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p"
+      },
+      {
+         "name": "BBC Radio 1xtra",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p"
+      },
+      {
+         "name": "BBC Radio 2",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p"
+      },
+      {
+         "name": "BBC Radio 3",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p"
+      },
+      {
+         "name": "BBC Radio 4FM",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p"
+      },
+      {
+         "name": "BBC Radio 4LW",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_p"
+      },
+      {
+         "name": "BBC Radio 4 Extra",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p"
+      },
+      {
+         "name": "BBC Radio 5 Live",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p"
+      },
+      {
+         "name": "BBC Radio 5 Live Sportsball Extra",
+         "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8"
+      },
+      {
+         "name": "BBC Radio 6 Music",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p"
+      },
+      {
+         "name": "BBC Asian Network",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p"
+      },
+      {
+         "name": "BBC World Service UK stream",
+         "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk"
+      },
+      {
+         "name": "BBC World Service News stream",
+         "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws Radio Cymru"
+      },
+      {
+         "name": "BBC Radio Foyle",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_foyle_mf_p"
+      },
+      {
+         "name": "BBC Radio nan Gàidheal",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p"
+      },
+      {
+         "name": "BBC Radio Scotland",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p"
+      },
+      {
+         "name": "BBC Radio Ulster",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p"
+      },
+      {
+         "name": "BBC Radio Wales",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_walesmw_mf_p"
+      },
+      {
+         "name": "BBC Radio Berkshire",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrberk_mf_p"
+      },
+      {
+         "name": "BBC Radio Bristol",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrbris_mf_p"
+      },
+      {
+         "name": "BBC Radio Cambridgeshire",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrcambs_mf_p"
+      },
+      {
+         "name": "BBC Radio Cornwall",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrcorn_mf_p"
+      },
+      {
+         "name": "BBC Coventry & Warwickshire",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrwmcandw_mf_p"
+      },
+      {
+         "name": "BBC Radio Cumbria",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrcumbria_mf_p"
+      },
+      {
+         "name": "BBC Radio Derby",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrderby_mf_p"
+      },
+      {
+         "name": "BBC Radio Devon",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrdevon_mf_p"
+      },
+      {
+         "name": "BBC Essex",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lressex_mf_p"
+      },
+      {
+         "name": "BBC Radio Gloucestershire",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrgloucs_mf_p"
+      },
+      {
+         "name": "BBC Radio Guernsey",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrguern_mf_p"
+      },
+      {
+         "name": "BBC Hereford & Worcester",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrhandw_mf_p"
+      },
+      {
+         "name": "BBC Radio Humberside",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrhumber_mf_p"
+      },
+      {
+         "name": "BBC Radio Jersey",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrjersey_mf_p"
+      },
+      {
+         "name": "BBC Radio Kent",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrkent_mf_p"
+      },
+      {
+         "name": "BBC Radio Lancashire",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrlancs_mf_p"
+      },
+      {
+         "name": "BBC Radio Leeds",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrleeds_mf_p"
+      },
+      {
+         "name": "BBC Radio Leicester",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrleics_mf_p"
+      },
+      {
+         "name": "BBC Radio Lincolnshire",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrlincs_mf_p"
+      },
+      {
+         "name": "BBC Radio London",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrldn_mf_p"
+      },
+      {
+         "name": "BBC Radio Manchester",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmanc_mf_p"
+      },
+      {
+         "name": "BBC Radio Merseyside",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrmersey_mf_p"
+      },
+      {
+         "name": "BBC Newcastle",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnewc_mf_p"
+      },
+      {
+         "name": "BBC Radio Norfolk",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnorfolk_mf_p"
+      },
+      {
+         "name": "BBC Radio Northampton",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnthhnts_mf_p"
+      },
+      {
+         "name": "BBC Radio Nottingham",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrnotts_mf_p"
+      },
+      {
+         "name": "BBC Radio Oxford",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lroxford_mf_p"
+      },
+      {
+         "name": "BBC Radio Sheffield",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsheff_mf_p"
+      },
+      {
+         "name": "BBC Radio Shropshire",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrshrops_mf_p"
+      },
+      {
+         "name": "BBC Radio Solent",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsolent_mf_p"
+      },
+      {
+         "name": "BBC Somerset",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsomer_mf_p"
+      },
+      {
+         "name": "BBC Radio Stoke",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsomer_mf_p"
+      },
+      {
+         "name": "BBC Radio Suffolk",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsuffolk_mf_p"
+      },
+      {
+         "name": "BBC Surrey",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsurrey_mf_p"
+      },
+      {
+         "name": "BBC Sussex",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrsussex_mf_p"
+      },
+      {
+         "name": "BBC Tees",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrtees_mf_p"
+      },
+      {
+         "name": "BBC Three Counties Radio",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lr3cr_mf_p"
+      },
+      {
+         "name": "BBC Wiltshire",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrwilts_mf_p"
+      },
+      {
+         "name": "BBC WM 95.6",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrwm_mf_p"
+      },
+      {
+         "name": "BBC Radio York",
+         "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lryork_mf_p"
+      }
+   ],
+   "tv_canals": [
+      {
+         "name": "BBC News Channel",
+         "url": "https://www.youtube.com/watch?v=pIXliO515m0"
+      },
+      {
+         "name": "BBC Africa",
+         "url": "https://www.youtube.com/watch?v=e7qg1E3J59g"
+      },
+      {
+         "name": "BBC Learning English",
+         "url": "https://www.youtube.com/watch?v=k9z6NALQB44"
+      },
+      {
+         "name": "BBC Arabic",
+         "url": "https://www.youtube.com/watch?v=dabL9p2vqHg"
+      }
+   ]
+}
